@@ -2,6 +2,8 @@
 
 This is a Sudoku web game built using JavaScript, HTML, and CSS. It allows users to play Sudoku puzzles in their web browser.
 
+[Play Now!](https://sudoku-web-game.netlify.app/)
+
 ## Features
 
 - Generates random Sudoku puzzles for the player to solve.
