@@ -27,4 +27,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-- The Sudoku puzzle generation algorithm was inspired by [Peter Norvig's Sudoku Solver](https://norvig.com/sudoku.html).
+The Sudoku puzzle generation algorithm was inspired by [Peter Norvig's Sudoku Solver](https://norvig.com/sudoku.html).
