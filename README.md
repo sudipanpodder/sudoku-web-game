@@ -4,6 +4,8 @@ This is a Sudoku web game built using JavaScript, HTML, and CSS. It allows users
 
 [Play Now!](https://sudoku-web-game.netlify.app/)
 
+<img width="806" alt="Screenshot 2023-07-02 221507" src="https://github.com/sudipanpodder/sudoku-web-game/assets/111433055/8dd97eed-add6-45ba-b83a-ad931de979bf">
+
 ## Features
 
 - Generates random Sudoku puzzles for the player to solve.
