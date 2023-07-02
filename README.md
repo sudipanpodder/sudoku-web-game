@@ -6,6 +6,7 @@ This is a Sudoku web game built using JavaScript, HTML, and CSS. It allows users
 
 - Generates random Sudoku puzzles for the player to solve.
 - Provides a user-friendly interface for interacting with the puzzle.
+- Support for dark mode.
 - Validates the user's solution.
 - Supports 5 different difficulty levels.
 - Keeps track of the player's completion time.
